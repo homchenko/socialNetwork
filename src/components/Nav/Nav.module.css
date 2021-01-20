@@ -1,0 +1,14 @@
+.nav{
+   grid-area: n;
+   background-color: lightpink;
+   padding: 20px;
+ }
+ 
+ .item a{
+   color: mintcream;
+   text-decoration: none;
+ }
+
+ .item a.active {
+   color: rgb(228, 51, 7);
+ }
